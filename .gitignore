@@ -12,3 +12,17 @@ gradle-app.setting
 
 # # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
 # gradle/wrapper/gradle-wrapper.properties
+QaTest/build/tmp/compileTestJava/source-classes-mapping.txt
+QaTest/build/test-results/test/binary/results.bin
+QaTest/build/test-results/test/binary/output.bin
+QaTest/build/reports/tests/test/js/report.js
+QaTest/build/reports/tests/test/css/style.css
+QaTest/build/reports/tests/test/classes/First.html
+QaTest/build.gradle
+QaTest/build/classes/java/test/First.class
+QaTest/build/reports/tests/test/css/base-style.css
+QaTest/build/reports/tests/test/index.html
+QaTest/build/reports/tests/test/packages/default-package.html
+QaTest/build/test-results/test/binary/output.bin.idx
+QaTest/build/test-results/test/TEST-First.xml
+QaTest/gradle/wrapper/gradle-wrapper.jar

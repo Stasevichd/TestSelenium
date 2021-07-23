@@ -26,3 +26,11 @@ QaTest/build/reports/tests/test/packages/default-package.html
 QaTest/build/test-results/test/binary/output.bin.idx
 QaTest/build/test-results/test/TEST-First.xml
 QaTest/gradle/wrapper/gradle-wrapper.jar
+QaTest/.idea/uiDesigner.xml
+QaTest/build/classes/java/test/UA/QA/FIRST/First.class
+QaTest/build/classes/java/test/UA/QA/FIRST/GroupDate.class
+QaTest/build/classes/java/test/UA/QA/FIRST/UserDate.class
+QaTest/build/reports/tests/test/classes/UA.QA.FIRST.First.html
+QaTest/build/reports/tests/test/packages/UA.QA.FIRST.html
+QaTest/build/test-results/test/TEST-UA.QA.FIRST.First.xml
+QaTest/.idea/uiDesigner.xml

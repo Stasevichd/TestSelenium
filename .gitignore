@@ -1,6 +1,7 @@
 .gradle
 /build/
-
+QaTest\.idea\libraries
+QaTest/.idea/libraries/
 # Ignore Gradle GUI config
 gradle-app.setting
 

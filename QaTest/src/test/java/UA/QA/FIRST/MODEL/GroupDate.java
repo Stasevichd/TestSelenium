@@ -1,4 +1,4 @@
-package UA.QA.FIRST;
+package UA.QA.FIRST.MODEL;
 
 public class GroupDate {
   private final String groupName;
